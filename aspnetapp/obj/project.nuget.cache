@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tOgam1tjOcCLpotio80E8aSkvcnF8v2hd9mki6KJ7zEqXmD/QU7/nZM7EBtHviQHPs/Ar5YoFSbaOjPc/Phhjg==",
+  "dgSpecHash": "LsTB77aZAqn+jAjNFsLX3EaDzv7cfj/FkbqvHDVuUvmzRtldbOZRjtXiJvAgHNafnJiPUvZZHQgx85x5NJejKA==",
   "success": true,
-  "projectFilePath": "D:\\wxxcx\\wxcloudrun-dotnet\\aspnetapp\\aspnetapp.csproj",
+  "projectFilePath": "D:\\wxxcx\\wxcx\\chwxxcxNew\\aspnetapp\\aspnetapp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\陈欢\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\陈欢\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

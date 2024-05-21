@@ -9456,11 +9456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\wxxcx\\wxcloudrun-dotnet\\aspnetapp\\aspnetapp.csproj",
+      "projectUniqueName": "D:\\wxxcx\\wxcx\\chwxxcxNew\\aspnetapp\\aspnetapp.csproj",
       "projectName": "aspnetapp",
-      "projectPath": "D:\\wxxcx\\wxcloudrun-dotnet\\aspnetapp\\aspnetapp.csproj",
+      "projectPath": "D:\\wxxcx\\wxcx\\chwxxcxNew\\aspnetapp\\aspnetapp.csproj",
       "packagesPath": "C:\\Users\\陈欢\\.nuget\\packages\\",
-      "outputPath": "D:\\wxxcx\\wxcloudrun-dotnet\\aspnetapp\\obj\\",
+      "outputPath": "D:\\wxxcx\\wxcx\\chwxxcxNew\\aspnetapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\陈欢\\AppData\\Roaming\\NuGet\\NuGet.Config",
