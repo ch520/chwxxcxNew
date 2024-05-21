@@ -34,4 +34,4 @@ COPY --from=build /app ./
 #     LANG=en_US.UTF-8
 # RUN apk add --no-cache icu-libs
 
-ENTRYPOINT ["./aspnetapp"]
+ENTRYPOINT ["dotnet", "aspnetapp.dll"]
